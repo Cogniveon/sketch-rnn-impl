@@ -1,0 +1,6 @@
+torch==2.2.1
+torchvision==0.17.1
+numpy==1.26.4
+opencv-python==4.9.0.80
+matplotlib==3.8.3
+einops==0.7.0
